@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="$App.finance" src="https://cdn.discordapp.com/attachments/811800332006457356/836695414613868614/logo.png" height="100px" /><br>   
+    <img alt="$App.finance" src="https://cdn.discordapp.com/attachments/811800332006457356/836695414613868614/logo.png" height="60px" /><br>   
     HTML | CSS | JavaScript
 </h1>
 <div align="center">
-    <img alt="$App.finance" src="https://cdn.discordapp.com/attachments/811800332006457356/836696044783403018/appfinance.png" height="100px" /> 
+    <img alt="$App.finance" src="https://cdn.discordapp.com/attachments/811800332006457356/836696044783403018/appfinance.png" height="600px" /> 
 </div>    
 <p align="center">   
   <img alt="Made by aleksanderpalamar" src="https://img.shields.io/badge/made%20by-aleksanderpalamar-%237519C1?style=flat-square">  
@@ -17,12 +17,12 @@
 
 ## Sobre
 
-O **aluA** é uma aplicação Web feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
+Esta aplicação web é uma pequena ferramenta que ajuda você a controlar as suas finanças.💲💲
 
 ## Tecnologias
 
--  [JavaScript]()
--  [HTML]()
--  [CSS]()
+-  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+-  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
+-  [CSS](https://css-tricks.com/)
 ---
 <sup>Projeto desenvolvido por [Aleksander Palamar](https://palamarsolutionit.com.br), da [Blog](https://linuxupdate.com.br).</sup>
