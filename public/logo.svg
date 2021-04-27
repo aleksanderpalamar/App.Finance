@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="325"
+   height="48"
+   viewBox="0 0 85.989581 12.7"
+   version="1.1"
+   id="svg891"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs885" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="225.27233"
+     inkscape:cy="64.455513"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1019"
+     inkscape:window-x="1920"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata888">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:8.9728px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:'Lexend Semi-Bold';fill:#04d361;fill-opacity:1;stroke-width:0.186931"
+       x="18.756815"
+       y="9.7754097"
+       id="text895"
+       transform="scale(1.0406044,0.96097998)"><tspan
+         sodipodi:role="line"
+         id="tspan893"
+         x="18.756815"
+         y="9.7754097"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Lexend;-inkscape-font-specification:'Lexend Light';fill:#04d361;fill-opacity:1;stroke-width:0.186931"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Lexend;-inkscape-font-specification:'Lexend Light';fill:#6f48c9;fill-opacity:1"
+   id="tspan1478">APP</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Lexend;-inkscape-font-specification:'Lexend Light';fill:#ffffff"
+   id="tspan1480">.</tspan>FINANCE</tspan></text>
+    <g
+       id="g865"
+       transform="matrix(0.09441522,0,0,0.09147145,-0.8492611,0.14867636)">
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:170.16px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:'Lexend Semi-Bold';stroke-width:0.88625"
+         x="4.8514371"
+         y="136.11929"
+         id="text12"
+         transform="scale(1.1508253,0.86894163)"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           x="4.8514371"
+           y="136.11929"
+           style="fill:#6f48c9;fill-opacity:1;stroke-width:0.88625">$</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:154.881px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:'Lexend Semi-Bold';stroke-width:0.80667"
+         x="14.933443"
+         y="124.31313"
+         id="text12-3"
+         transform="scale(1.0735618,0.93147874)"><tspan
+           sodipodi:role="line"
+           id="tspan10-6"
+           x="14.933443"
+           y="124.31313"
+           style="fill:#04d361;fill-opacity:1;stroke-width:0.80667">$</tspan></text>
+    </g>
+  </g>
+</svg>
